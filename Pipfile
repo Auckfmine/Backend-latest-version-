@@ -13,6 +13,7 @@ django-rest-auth = {extras = ["with_social"],version = "*"}
 django-cors-headers = "*"
 django-fields = "*"
 pillow = "*"
+djangorestframework-jwt = "*"
 
 [requires]
 python_version = "*"

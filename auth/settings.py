@@ -26,7 +26,7 @@ SECRET_KEY = 'dp-0nzfpkr)cs14^$t(vzin()1_^70=)#^-1t0!*%2pgdap4)n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True 
 
-ALLOWED_HOSTS = ['valzyzt.cluster024.hosting.ovh.net','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['valzyzt.cluster024.hosting.ovh.net','localhost','127.0.0.1','10.0.2.2']
 
 
 # Application definition
