@@ -54,6 +54,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'rest_auth.registration',
     'Absence',
+    'date',
 
 
     'notes',
@@ -136,7 +137,7 @@ WSGI_APPLICATION = 'auth.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'rawdha_3',
+        'NAME': 'backup',
         'HOST':"localhost",
         "USER":"root",
         "PASSWORD":"root"
